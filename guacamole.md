@@ -6,4 +6,3 @@
 ## Instructions
 
 Do some stuff
-Something else
