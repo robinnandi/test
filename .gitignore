@@ -1,2 +1,4 @@
 *.png
 pictures/
+!final.png
+log*
