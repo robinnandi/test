@@ -5,4 +5,4 @@
 *salt
 ## Instructions
 
-Do some stuff
+* put one avocado in a bowl
